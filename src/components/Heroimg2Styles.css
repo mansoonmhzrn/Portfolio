@@ -7,12 +7,12 @@
 
 .hero-img::before{
     content: "";
-    background: url("https://cdn.discordapp.com/attachments/981697615685091358/1084214014122393622/Mani_Programming_Desktop_with_big_new_monitor_1ad73fe0-d4e4-4f78-84f0-5e9970b1fd57.png");
+    background: url("https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
     background-size: cover;
     background-position: center top;
     height: 100%;
     width: 100%;
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
     z-index: -1;

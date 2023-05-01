@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-container">
             <div className="left">
                 <div className="location">
-                 <FaHome size={20} style={{color:"#fff", marginRight: "2rem"}} />   
+                 <FaHome size={30} style={{color:"#fff", marginRight: "2rem"}} />   
                  <div>
                     <p>
                         Dhapagal-16 Lalitpur.
@@ -20,12 +20,12 @@ const Footer = () => {
                 </div>
 
               <div className="phone">
-              <h4> <FaPhone size={20} style={{color:"#fff", marginRight: "2rem"}} />  +977-9861376668
+              <h4> <FaPhone size={25} style={{color:"#fff", marginRight: "2rem"}} />  +977-9861376668
                 </h4>
                 </div>
 
                 <div className="email">
-              <h4> <FaMailBulk size={20} style={{color:"#fff", marginRight: "2rem"}} />  mhzrnmansoon20@gmail.com
+              <h4> <FaMailBulk size={25} style={{color:"#fff", marginRight: "2rem"}} />mhzrnmansoon20@gmail.com
                 </h4>
                 </div>
 
